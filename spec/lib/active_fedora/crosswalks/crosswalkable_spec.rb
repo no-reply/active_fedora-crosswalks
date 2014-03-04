@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'pry'
 
 describe ActiveFedora::Crosswalks::Crosswalkable do
   let(:asset) {CrosswalkAsset.new}
